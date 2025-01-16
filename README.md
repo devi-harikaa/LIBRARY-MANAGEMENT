@@ -2,7 +2,7 @@
 
 # Project Overview
 
-This Python project is a simple Library Management System that uses MySQL as the backend database. The project allows users to manage library operations such as issuing and returning books and provides an admin panel to view, edit, or delete records. This system is designed for small to medium-sized libraries and is built as a college project for SRM University Delhi-NCR.
+This Python project is a simple Library Management System that uses MySQL as the backend database. The project allows users to manage library operations such as issuing and returning books and provides an admin panel to view, edit, or delete records. .
 
 # Features
 
